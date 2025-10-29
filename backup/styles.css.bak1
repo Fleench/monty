@@ -241,8 +241,8 @@ blockquote {
 .bio-layout {
   display: grid;
   gap: 1.75rem;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  align-items: start;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  align-items: stretch;
 }
 
 .bio-card {
@@ -279,20 +279,44 @@ blockquote {
   font-size: 1.05rem;
 }
 
-.bio-fact p {
-  margin: 0;
-  color: var(--muted);
-  font-size: 1.05rem;
-  line-height: 1.7;
+.bio-card h2 {
+  font-size: 1.28rem;
+  margin-bottom: 0.35rem;
 }
 
-.bio-fact strong {
-  display: block;
-  font-size: 0.75rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+.bio-card ul {
+  padding-left: 1.2rem;
+  margin: 0;
+  color: var(--muted);
+}
+
+.bio-card li + li {
+  margin-top: 0.4rem;
+}
+
+.bio-footer {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+  font-size: 0.95rem;
+  color: var(--muted);
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.bio-footer span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.4rem 0.75rem;
+  background: rgba(154, 107, 79, 0.08);
+  border-radius: 999px;
+}
+
+.bio-footer span::before {
+  content: "•";
   color: var(--accent);
-  margin-bottom: 0.4rem;
 }
 
 @media (max-width: 900px) {
@@ -314,11 +338,19 @@ blockquote {
   .bio-card {
     padding: 1.6rem 1.7rem;
   }
+
+  .bio-card h2 {
+    font-size: 1.22rem;
+  }
 }
 
 @media (max-width: 520px) {
   .bio-page {
     padding: 2.2rem 0 2.8rem;
+  }
+
+  .bio-card h2 {
+    font-size: 1.15rem;
   }
 
   .bio-hero h1 {
