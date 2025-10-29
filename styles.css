@@ -19,6 +19,42 @@ body {
   line-height: 1.6;
 }
 
+.sticky-access {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: linear-gradient(90deg, var(--accent), #b58362);
+  padding: 0.5rem 1rem;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(43, 37, 33, 0.12);
+}
+
+.sticky-access__link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 1.2rem;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.12);
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.sticky-access__link::before {
+  content: "⤴";
+  font-size: 1.1rem;
+}
+
+.sticky-access__link:focus-visible,
+.sticky-access__link:hover {
+  background: rgba(0, 0, 0, 0.2);
+  transform: translateY(-1px);
+}
+
 h1,
  h2 {
   font-family: "Playfair Display", Georgia, serif;
@@ -194,6 +230,107 @@ blockquote {
   padding: 2rem 0;
   text-align: center;
   font-size: 0.95rem;
+}
+
+.bio-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 2.5rem;
+}
+
+.bio-layout {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+}
+
+.bio-card {
+  padding: 1.6rem 1.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.bio-hero {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding-bottom: 0.5rem;
+  align-items: center;
+}
+
+.bio-hero h1 {
+  font-family: "Playfair Display", "Times New Roman", serif;
+  font-size: clamp(1.9rem, 4.5vw, 2.6rem);
+  margin-bottom: 0.35rem;
+}
+
+.bio-hero p {
+  margin: 0 auto;
+  max-width: 60ch;
+  color: var(--muted);
+}
+
+.bio-card h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.4rem;
+}
+
+.bio-card ul {
+  padding-left: 1rem;
+  margin: 0;
+}
+
+.bio-card li + li {
+  margin-top: 0.25rem;
+}
+
+.bio-footer {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  font-size: 0.95rem;
+  color: var(--muted);
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.bio-footer span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.bio-footer span::before {
+  content: "•";
+  color: var(--accent);
+}
+
+@media (max-width: 900px) {
+  .bio-page {
+    padding-top: 1.5rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .bio-layout {
+    gap: 1.1rem;
+  }
+
+  .bio-card h2 {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 520px) {
+  .bio-page {
+    padding: 1.2rem 0.9rem 2rem;
+  }
+
+  .bio-card h2 {
+    font-size: 1.1rem;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
