@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meet Monty</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="sticky-access" role="navigation" aria-label="Quick links">
+      <a class="sticky-access__link" href="index.html">Back to Archive</a>
+    </div>
+    <main class="bio-page" aria-labelledby="bio-title">
+      <section class="bio-layout" aria-describedby="bio-summary">
+        <article class="card bio-card bio-hero">
+          <h1 id="bio-title">Montgomery "Monty" Preston Montgomery III</h1>
+          <p id="bio-summary">
+            A legacy financier turned curated storyteller, Monty balances the charm of Boston old-money with the
+            self-awareness of someone rewriting his own myth after an overzealous rejuvenation treatment.
+          </p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Age">
+          <p><strong>Age</strong>69 years old, born April 15, 1955.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Height">
+          <p><strong>Height</strong>6'1" tall after decades of posture tutors.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Primary Residence">
+          <p><strong>Primary Residence</strong>Beacon Hill townhouse overlooking Louisburg Square.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Summer Retreat">
+          <p><strong>Summer Retreat</strong>Cliffside Newport manor revived for jazz-filled salons.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Spouse">
+          <p><strong>Spouse</strong>Marguerite "Muffy" Langdon Montgomery.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Son">
+          <p><strong>Son</strong>Preston Montgomery IV.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Daughter">
+          <p><strong>Daughter</strong>Tiffany Montgomery Blythe.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Chief of Staff">
+          <p><strong>Chief of Staff</strong>Ms. Penelope Graves.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Signature Accessory">
+          <p><strong>Signature Accessory</strong>Heirloom rose-gold cufflinks.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Favorite Indulgence">
+          <p><strong>Favorite Indulgence</strong>Single-origin espresso flights.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Greeting">
+          <p><strong>Greeting</strong>"Pleasure as always" with a double handshake.</p>
+        </article>
+        <article class="card bio-card bio-fact" aria-label="Contact">
+          <p><strong>Contact</strong>concierge@montgomeryarchive.com.</p>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
