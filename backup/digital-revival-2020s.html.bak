@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Digital Revival (2020s) | Monty's Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div class="container">
+        <a class="back-link" href="../index.html">Back to Monty's archive</a>
+        <h1>The Digital Revival (2020s)</h1>
+        <p class="intro">
+          Monty's attempt to digitize family ledgers accidentally published decades of correspondence, quickly reframed as
+          “interactive historical fiction.”
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="cards-grid expanded-grid" aria-label="Digital revival details">
+        <article class="card">
+          <div class="card-link">
+            <h2>Accidental Launch</h2>
+            <p>
+              The archive went live overnight when Monty clicked “share” instead of “save.” Subscribers received alerts to
+              “exclusive Montgomery drama.”
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Damage Control</h2>
+            <p>
+              Lawyers drafted disclaimers labelling the documents “dramatised memoirs.” Family members now append footnotes
+              to clarify which feuds were real.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Modern Legacy</h2>
+            <p>
+              The site features guided tours narrated by Monty's AI voice, complete with options to purchase deluxe access
+              to scandal annotations.
+            </p>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <div class="container">
+        <p>Expanded archive entry for Monty's digital revival.</p>
+      </div>
+    </footer>
+  </body>
+</html>

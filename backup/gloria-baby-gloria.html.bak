@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gloria "Baby Gloria" | Monty's Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div class="container">
+        <a class="back-link" href="../index.html">Back to Monty's archive</a>
+        <h1>Gloria “Baby Gloria”</h1>
+        <p class="intro">
+          The youngest Montgomery treats society columns like playgrounds, effortlessly modelling the family brand
+          before mastering cursive.
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="cards-grid expanded-grid" aria-label="Baby Gloria details">
+        <article class="card">
+          <div class="card-link">
+            <h2>Miniature Wardrobe</h2>
+            <p>
+              Her closet is catalogued like a museum, complete with provenance cards and scheduled loan periods for photo
+              shoots.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Media Training</h2>
+            <p>
+              Baby Gloria’s tutor doubles as a publicist, rehearsing phrases like “philanthropy playtime” before every
+              appearance.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Signature Causes</h2>
+            <p>
+              She promotes “Libraries for Littles,” a program donating gilded storybooks to hospital waiting rooms—with a
+              custom monogram stamped inside each cover.
+            </p>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <div class="container">
+        <p>Expanded archive entry for Gloria Montgomery.</p>
+      </div>
+    </footer>
+  </body>
+</html>

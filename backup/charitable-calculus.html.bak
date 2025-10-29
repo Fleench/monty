@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Charitable Calculus | Monty's Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div class="container">
+        <a class="back-link" href="../index.html">Back to Monty's archive</a>
+        <h1>Charitable Calculus</h1>
+        <p class="intro">
+          For Monty, generosity is an equation balancing tax strategy, public perception, and invitations to prestigious
+          galas.
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="cards-grid expanded-grid" aria-label="Charitable calculus details">
+        <article class="card">
+          <div class="card-link">
+            <h2>Giving Matrix</h2>
+            <p>
+              His philanthropy ledger assigns scores to causes based on prestige, media reach, and deducibility. Higher
+              scores receive priority checks.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Tax-Time Ritual</h2>
+            <p>
+              Each January he hosts a “Generosity Summit” with accountants, toasting deductions with artisanal champagne
+              labelled “Write-Off Reserve.”
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Legacy Campaigns</h2>
+            <p>
+              Monty endows scholarships with donor walls featuring mirrors, ensuring his reflection appears in every
+              commemorative photo.
+            </p>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <div class="container">
+        <p>Expanded archive entry for Monty's charitable calculus.</p>
+      </div>
+    </footer>
+  </body>
+</html>

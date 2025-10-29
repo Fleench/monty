@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Art Market Adventure | Monty's Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div class="container">
+        <a class="back-link" href="../index.html">Back to Monty's archive</a>
+        <h1>The Art Market Adventure</h1>
+        <p class="intro">
+          Mistaking a restaurant mural for a lost Monet became Monty's favourite performance piece, transforming an error
+          into curated commentary.
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="cards-grid expanded-grid" aria-label="Art market adventure details">
+        <article class="card">
+          <div class="card-link">
+            <h2>Acquisition Drama</h2>
+            <p>
+              Monty staged a midnight “rescue” of the mural, complete with velvet ropes and a narrated backstory about
+              Monet's secret Boston period.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Performance Art Pivot</h2>
+            <p>
+              When authenticity faltered, he declared the piece an experiential installation. Guests wore monocles to
+              observe “capitalist reflection in acrylic.”
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Mural's Afterlife</h2>
+            <p>
+              The mural now tours corporate lobbies accompanied by a docent who recites Monty’s original sales pitch.
+              Donations benefit aspiring art appraisers.
+            </p>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <div class="container">
+        <p>Expanded archive entry for Monty's art market adventure.</p>
+      </div>
+    </footer>
+  </body>
+</html>

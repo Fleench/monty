@@ -161,6 +161,25 @@ h2 {
   margin: 0;
 }
 
+.card-meta {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.card-meta .meta-label {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.card-meta span[aria-hidden="true"] {
+  margin: 0 0.35rem;
+  color: rgba(95, 81, 73, 0.7);
+}
+
 blockquote {
   margin: 0;
   padding-left: 1rem;
