@@ -74,22 +74,40 @@
       </header>
       <section class="bio-layout" aria-label="Essential facts about Monty">
         <article class="card bio-card bio-fact" aria-label="Age">
-          <p><strong>Age: 69</strong></p>
+          <p>
+            <strong>Age</strong>
+            69 · Born April 15, 1955
+          </p>
         </article>
         <article class="card bio-card bio-fact" aria-label="Home Base">
-          <p><strong>Home Base: Beacon Hill townhouse on Louisburg Square</strong></p>
+          <p>
+            <strong>Home Base</strong>
+            Beacon Hill townhouse overlooking Louisburg Square
+          </p>
         </article>
         <article class="card bio-card bio-fact" aria-label="Family">
-          <p><strong>Family: Married to Marguerite "Muffy" Langdon Montgomery</strong></p>
+          <p>
+            <strong>Family</strong>
+            Married to Marguerite "Muffy" Langdon Montgomery
+          </p>
         </article>
         <article class="card bio-card bio-fact" aria-label="Children">
-          <p><strong>Children: Preston Montgomery IV &amp; Tiffany Montgomery Blythe</strong></p>
+          <p>
+            <strong>Children</strong>
+            Preston Montgomery IV · Tiffany Montgomery Blythe
+          </p>
         </article>
         <article class="card bio-card bio-fact" aria-label="Retreat">
-          <p><strong>Retreat: Cliffside Newport manor for jazz-night salons</strong></p>
+          <p>
+            <strong>Retreat</strong>
+            Cliffside Newport manor opened for jazz-night salons
+          </p>
         </article>
         <article class="card bio-card bio-fact" aria-label="Contact">
-          <p><strong>Contact: concierge@montgomeryarchive.com</strong></p>
+          <p>
+            <strong>Contact</strong>
+            concierge@montgomeryarchive.com
+          </p>
         </article>
       </section>
     </main>
