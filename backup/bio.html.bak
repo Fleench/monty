@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meet Monty</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="sticky-access" role="navigation" aria-label="Quick links">
+      <a class="sticky-access__link" href="index.html">Back to Archive</a>
+    </div>
+    <main class="bio-page" aria-labelledby="bio-title">
+      <section class="bio-layout" aria-describedby="bio-summary">
+        <article class="card bio-card bio-hero">
+          <h1 id="bio-title">Montgomery "Monty" Preston Montgomery III</h1>
+          <p id="bio-summary">
+            A legacy financier turned curated storyteller, Monty balances the charm of Boston old-money with the
+            self-awareness of someone rewriting his own myth after an overzealous rejuvenation treatment.
+          </p>
+        </article>
+        <article class="card bio-card" aria-labelledby="bio-vitals-title">
+          <h2 id="bio-vitals-title">Vitals Snapshot</h2>
+          <ul>
+            <li><strong>Born:</strong> April 15, 1955 &mdash; Boston, Massachusetts</li>
+            <li><strong>Residence:</strong> Beacon Hill townhouse &amp; Newport summer manor</li>
+            <li><strong>Family:</strong> Married to socialite Muffy; father to Preston IV and Tiffany</li>
+            <li><strong>Signature look:</strong> Three-piece suits, rejuvenated smile, heirloom cufflinks</li>
+          </ul>
+        </article>
+        <article class="card bio-card" aria-labelledby="bio-career-title">
+          <h2 id="bio-career-title">Career Highlights</h2>
+          <ul>
+            <li>Chairman Emeritus of Montgomery Capital, the family investment empire</li>
+            <li>Architect of 1980s leveraged buyouts with a flair for theatrical boardroom exits</li>
+            <li>Occasional Harvard guest lecturer on "executive imagination" and etiquette</li>
+            <li>Memoirist of <em>Capital with Compassion</em>, still quoted in yacht clubs</li>
+          </ul>
+        </article>
+        <article class="card bio-card" aria-labelledby="bio-present-title">
+          <h2 id="bio-present-title">Current Pursuits</h2>
+          <ul>
+            <li>Curates his personal archive to rebuild memories with style and accuracy</li>
+            <li>Hosts salons blending philanthropy pitches with vintage jazz vinyl nights</li>
+            <li>Mentors next-gen heirs on "gracious capitalism" from his Newport study</li>
+            <li>Travels with a bespoke memory journal prepared by his archivist-in-residence</li>
+          </ul>
+        </article>
+        <article class="card bio-card" aria-labelledby="bio-personal-title">
+          <h2 id="bio-personal-title">Personality Notes</h2>
+          <ul>
+            <li>Collects art "conversation pieces" to remember where he bought them</li>
+            <li>Quotes his grandmother's etiquette rules as gospel</li>
+            <li>Champions tradition, but secretly loves experimental coffee tastings</li>
+            <li>Keeps a Rolodex labeled "Allies" with embossed gold dividers</li>
+          </ul>
+        </article>
+        <article class="card bio-card bio-footer" aria-label="Contact and quick facts">
+          <span><strong>Assistant:</strong> Ms. Penelope Graves, Chief Archivist</span>
+          <span><strong>Preferred greeting:</strong> "Pleasure as always" accompanied by a double handshake</span>
+          <span><strong>Reach:</strong> concierge@montgomeryarchive.com</span>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
