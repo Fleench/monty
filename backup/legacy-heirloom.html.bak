@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Legacy Heirloom | Monty's Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div class="container">
+        <a class="back-link" href="../index.html">Back to Monty's archive</a>
+        <h1>Legacy Heirloom</h1>
+        <p class="intro">
+          Monty's birthright comes with crested stationery, a family motto in Latin, and a lifelong reminder that his
+          name is both invitation and obligation.
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="cards-grid expanded-grid" aria-label="Legacy Heirloom details">
+        <article class="card">
+          <div class="card-link">
+            <h2>Family Crest Origins</h2>
+            <p>
+              The Montgomery crest was commissioned in 1898 and features a rampant stag guarding a ledger—symbolising
+              courage in commerce. Monty keeps a miniature version on his cufflinks.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Inherited Expectations</h2>
+            <p>
+              At age twelve he received a leather-bound book titled <em>Duties of the Third</em>, detailing which clubs to
+              join, who to greet first at regattas, and how to correct a butler without losing poise.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>The Annual Portrait Sitting</h2>
+            <p>
+              Every October, Monty is repainted for the ancestral portrait gallery. The painter keeps notes on preferred
+              angles and the precise hue labelled “Montgomery confidence.”
+            </p>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <div class="container">
+        <p>Expanded archive entry for Monty's legacy heirloom.</p>
+      </div>
+    </footer>
+  </body>
+</html>

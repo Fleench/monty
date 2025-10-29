@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notorious Ventures | Monty's Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div class="container">
+        <a class="back-link" href="../index.html">Back to Monty's archive</a>
+        <h1>Notorious Ventures</h1>
+        <p class="intro">
+          Monty's side projects blend spectacle and speculation, leaving behind headlines, odd memorabilia, and puzzled
+          accountants.
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="cards-grid expanded-grid" aria-label="Notorious venture details">
+        <article class="card">
+          <div class="card-link">
+            <h2>Mural Reimagined</h2>
+            <p>
+              After realising the mural was not a Monet, Monty installed a plaque reading “Found Object of Capitalist
+              Reflection.” Tours still include a dramatic unveiling.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Charity Safari Ledger</h2>
+            <p>
+              The zebra named Montgomery received lifetime grooming while the donor list was turned into a coffee-table
+              book of safari fashion.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>AskMonty Epilogue</h2>
+            <p>
+              Archived chat logs show Monty auto-replying “Consider leverage!” to most questions. A museum of failed tech
+              displays the server as cautionary art.
+            </p>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <div class="container">
+        <p>Expanded archive entry for Monty's notorious ventures.</p>
+      </div>
+    </footer>
+  </body>
+</html>

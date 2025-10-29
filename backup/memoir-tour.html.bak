@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Memoir Tour | Monty's Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+3:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div class="container">
+        <a class="back-link" href="../index.html">Back to Monty's archive</a>
+        <h1>The Memoir Tour</h1>
+        <p class="intro">
+          Monty's 2006 publicity tour for <em>Capital with Compassion</em> turned provocative sound bites into bestseller
+          buzz.
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="cards-grid expanded-grid" aria-label="Memoir tour details">
+        <article class="card">
+          <div class="card-link">
+            <h2>Signature Quote</h2>
+            <p>
+              The infamous “minimum wage is a polite fiction” line debuted on a morning show, immediately spawning think
+              pieces and bespoke protest signs.
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Tour Aesthetic</h2>
+            <p>
+              Each venue featured leather-bound copies arranged like an altar. Attendees received handkerchiefs embroidered
+              with the word “compassion.”
+            </p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card-link">
+            <h2>Philanthropic Spin</h2>
+            <p>
+              Monty pledged a percentage of sales to “executive ethics workshops,” which primarily funded catered salons
+              discussing moral optics.
+            </p>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <div class="container">
+        <p>Expanded archive entry for Monty's memoir tour.</p>
+      </div>
+    </footer>
+  </body>
+</html>
