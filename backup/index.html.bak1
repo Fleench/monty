@@ -183,16 +183,6 @@
         </article>
 
         <article class="card" data-category="personal-life">
-          <a class="card-link" href="expanded/dancing-legend.html">
-            <h2>Ballroom Legend</h2>
-            <p>
-              Monty’s ballroom prowess is whispered about across Newport—precision footwork, effortless lifts, and a grin that
-              says he was born twirling under chandeliers.
-            </p>
-          </a>
-        </article>
-
-        <article class="card" data-category="personal-life">
           <a class="card-link" href="expanded/memoir-tour.html">
             <h2>The Memoir Tour</h2>
             <p>
