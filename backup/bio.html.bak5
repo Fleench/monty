@@ -56,14 +56,7 @@
 
       @media (max-width: 700px) {
         .bio-layout {
-          display: block;
-          column-count: 2;
-          column-gap: 1rem;
-        }
-
-        .bio-card {
-          break-inside: avoid;
-          margin-bottom: 1rem;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
         }
       }
 
