@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Preston Aurelius Jones IV "P-Money" | Monty's Archive</title>
+    <title>Preston Montgomery Jones IV "P-Money" | Monty's Archive</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -19,7 +19,7 @@
     <header class="page-header">
       <div class="container">
         <a class="back-link" href="../index.html">Back to Monty's archive</a>
-        <h1>Preston Aurelius Jones IV – “P-Money”</h1>
+        <h1>Preston Montgomery Jones IV – “P-Money”</h1>
         <p class="intro">
           The heir apparent turns old-money aesthetics into influencer currency, blending bespoke suits with livestreamed
           legacy lessons that rebrand the Jones lineage without losing Montgomery gloss.
@@ -84,7 +84,7 @@
 
     <footer class="page-footer">
       <div class="container">
-        <p>Expanded archive entry for Preston Aurelius Jones IV.</p>
+        <p>Expanded archive entry for Preston Montgomery Jones IV.</p>
       </div>
     </footer>
   </body>
