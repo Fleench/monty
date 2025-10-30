@@ -90,7 +90,7 @@
     </div>
     <main class="bio-page" aria-labelledby="bio-title">
       <header class="bio-header">
-        <h1 id="bio-title">Preston "Monty" Montgomery Jones III</h1>
+        <h1 id="bio-title">Montgomery "Monty" Preston Montgomery III</h1>
       </header>
       <section class="bio-layout" aria-label="Essential facts about Monty">
         <article class="card bio-card bio-fact" aria-label="Age">
@@ -100,10 +100,10 @@
           <p><strong>Home Base: Beacon Hill townhouse on Louisburg Square</strong></p>
         </article>
         <article class="card bio-card bio-fact" aria-label="Family">
-          <p><strong>Family: Married to Marguerite "Muffy" Langdon Montgomery Jones</strong></p>
+          <p><strong>Family: Married to Marguerite "Muffy" Langdon Montgomery</strong></p>
         </article>
         <article class="card bio-card bio-fact" aria-label="Children">
-          <p><strong>Children: Preston Montgomery Jones IV &amp; Tiffany Montgomery Jones</strong></p>
+          <p><strong>Children: Preston Montgomery IV &amp; Tiffany Montgomery Blythe</strong></p>
         </article>
         <article class="card bio-card bio-fact" aria-label="Retreat">
           <p>

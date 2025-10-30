@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tiffany Montgomery Jones | Monty's Archive</title>
+    <title>Tiffany Montgomery-Blythe | Monty's Archive</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -19,16 +19,16 @@
     <header class="page-header">
       <div class="container">
         <a class="back-link" href="../index.html">Back to Monty's archive</a>
-        <h1>Tiffany Montgomery Jones</h1>
+        <h1>Tiffany Montgomery-Blythe</h1>
         <p class="intro">
           Founder of Wings of the Forgotten, Tiffany turns conservation into couture, advocating for endangered moths
-          with dramatic flair while folding her former Montgomery-Blythe branding into the Jones era.
+          with dramatic flair.
         </p>
       </div>
     </header>
 
     <main class="container">
-      <section class="cards-grid expanded-grid" aria-label="Tiffany Montgomery Jones details">
+      <section class="cards-grid expanded-grid" aria-label="Tiffany Montgomery-Blythe details">
         <article class="card" id="tmb-memory-01">
           <div class="card-link">
             <h2>Wings of the Forgotten</h2>
@@ -84,7 +84,7 @@
 
     <footer class="page-footer">
       <div class="container">
-        <p>Expanded archive entry for Tiffany Montgomery Jones.</p>
+        <p>Expanded archive entry for Tiffany Montgomery-Blythe.</p>
       </div>
     </footer>
   </body>

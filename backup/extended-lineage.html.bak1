@@ -21,8 +21,8 @@
         <a class="back-link" href="../index.html">Back to Monty's archive</a>
         <h1>Extended Lineage</h1>
         <p class="intro">
-          The wider Jones clan spans vineyards, galleries, and philanthropic salons, each relative contributing a
-          chapter to the family legend while honoring their Montgomery roots.
+          The wider Montgomery clan spans vineyards, galleries, and philanthropic salons, each relative contributing a
+          chapter to the family legend.
         </p>
       </div>
     </header>
@@ -34,7 +34,7 @@
             <h2>Eleanor's Gatherings</h2>
             <p class="card-meta"><span class="meta-label">ID:</span> EXL-01 <span aria-hidden="true">•</span> <span class="meta-label">Date:</span> December 11, 2002</p>
             <p>
-              Matriarch Eleanor Montgomery Jones hosts “intimate” dinners for 120 guests, complete with engraved
+              Matriarch Eleanor hosts “intimate” dinners for 120 guests, complete with engraved
               menus and exit gifts of monogrammed marmalade.
             </p>
           </div>
@@ -44,7 +44,7 @@
             <h2>Preston II's Playbook</h2>
             <p class="card-meta"><span class="meta-label">ID:</span> EXL-02 <span aria-hidden="true">•</span> <span class="meta-label">Date:</span> April 9, 2005</p>
             <p>
-              Monty's father, Preston Montgomery Jones II, left a binder titled “Acquisitions Worth Borrowing,” containing
+              Monty's father left a binder titled “Acquisitions Worth Borrowing,” containing
               annotated case studies and advice on owning the room.
             </p>
           </div>
@@ -54,7 +54,7 @@
             <h2>Bradford's Vineyard</h2>
             <p class="card-meta"><span class="meta-label">ID:</span> EXL-03 <span aria-hidden="true">•</span> <span class="meta-label">Date:</span> June 16, 2009</p>
             <p>
-              Uncle Bradford Jones produces a rebellious rosé called “Renegade Reserve,” served at family
+              Uncle Bradford produces a rebellious rosé called “Renegade Reserve,” served at family
               gatherings to signal open-mindedness—within reason.
             </p>
           </div>
@@ -84,7 +84,7 @@
 
     <footer class="page-footer">
       <div class="container">
-        <p>Expanded archive entry for the extended Jones lineage.</p>
+        <p>Expanded archive entry for the extended Montgomery lineage.</p>
       </div>
     </footer>
   </body>
