@@ -22,7 +22,7 @@
         <h1>Ballroom Legend</h1>
         <p class="intro">
           Monty’s lifelong devotion to dance is the rare discipline he remembers without prompting—precision steps,
-          musical instincts, and a joy that keeps him gliding long after the orchestra stops (or the EDM beat drops).
+          musical instincts, and a joy that keeps him gliding long after the orchestra stops.
         </p>
       </div>
     </header>
@@ -55,19 +55,7 @@
             <p class="card-meta"><span class="meta-label">ID:</span> DNC-03 <span aria-hidden="true">•</span> <span class="meta-label">Date:</span> Present Day</p>
             <p>
               Monty says ballroom reminds him that grace can be rehearsed: “On the floor, every step forgives the last. That’s why
-              I keep dancing.” His archive staff logs weekly studio sessions as memory therapy and notes the midnight EDM/pop sets
-              he curates to keep that joy blazing.
-            </p>
-          </div>
-        </article>
-        <article class="card" id="dance-memory-04">
-          <div class="card-link">
-            <h2>LED Encore</h2>
-            <p class="card-meta"><span class="meta-label">ID:</span> DNC-04 <span aria-hidden="true">•</span> <span class="meta-label">Date:</span> Summer Soirées, 2020s</p>
-            <p>
-              After formal galas wind down, Monty swaps tuxedo tails for a sequined jacket, invites the grandchildren to DJ
-              EDM/pop playlists, and floods the ballroom with neon uplights. Guests call it “Club Montgomery,” and he calls it
-              fellowship with extra bass.
+              I keep dancing.” His archive staff logs weekly studio sessions as memory therapy.
             </p>
           </div>
         </article>
